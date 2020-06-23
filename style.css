@@ -1,0 +1,9 @@
+.main{
+    background-image: url(https://i.pinimg.com/originals/f1/c1/37/f1c137ad0d81018502877fc6b1f334d1.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100% auto;
+}
+.contactme{
+    transform: rotate(-25deg);
+}
